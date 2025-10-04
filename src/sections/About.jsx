@@ -14,7 +14,7 @@ const About = () => {
         {/* Grid 1 */}
         <div className="flex items-end grid-default-color grid-1">
           <img
-            src="public/assets/profile-pic.png"
+            src="/assets/profile-pic.png"
             className="absolute object-fit left-[0%] -top-[1rem]  md:left-0 md:inset-y-0 "
           />
           <div className="z-10">
