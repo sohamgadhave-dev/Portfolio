@@ -49,13 +49,8 @@ npm run dev
 
 Then open http://localhost:5173 in your browser.
 
+```
 --
 
-📬 Contact
-
-📧 Email: sohamgadhave527@gmail.com
-🌐 Portfolio: soham-portfolio-eight.vercel.app
-💼 Open to: Remote work, collaborations, and freelance projects
-
---
+##
 © 2025 Soham — Built with ❤️ and React.
